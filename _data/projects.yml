@@ -20,6 +20,13 @@
     - tag: Unity
     - tag: C#
 
+- name: Resta Vid
+  descr: "Una apliacacion pensada para gestionar la ocupacion de un restaurante en tiempos de covid. Totalmente integrada con FireAuth, FireBase y Google Analitycs"
+  demo: https://github.com/AlejandroIglesiasCalvo/sdm_RestaVid
+  tags:
+    - tag: Android
+    - tag: Java
+    - tag: Google Services
 
-- #name: project Z
-  #descr: "You can also set a project without demo link and no tags"
+
+

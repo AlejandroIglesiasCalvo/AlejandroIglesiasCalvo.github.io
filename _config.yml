@@ -14,7 +14,7 @@ baseurl: ""
 username: Alejandro Iglesias Calvo
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: ¡Bienvenido!
+typing_text: Estudiante de Ingenieria Informatica
 # email: Your E-Mail address for the email button.
 email: alejandroiglesiascalvo@hotmail.com
 # For every social button you want to display, set your username or userid
@@ -23,7 +23,7 @@ email: alejandroiglesiascalvo@hotmail.com
 github_username: AlejandroIglesiasCalvo
 codepen_username: 
 dev_username: 
-linkedin_username: Alejandro Iglesias Calvo
+linkedin_username: https://www.linkedin.com/in/alejandro-iglesias-calvo-255a29144/
 twitter_username:
 
 # ABOUT ME SECTION
@@ -32,7 +32,7 @@ twitter_username:
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: Sobre mi
+about_me_title: Quien soy
 # about_me_description: This will be displayed under the title.
 about_me_description: Soy estudiante de ultimo año de Ingenieria Informatica del software. En la universidad de Oviedo.
 # SKILLS SECTION
@@ -64,7 +64,7 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: Projects
+projects_title: Proyectos en los que he participado
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
@@ -89,7 +89,7 @@ projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
   # > set this to stars, if you want to sort your github repositories by stars.
-  sort_by: pushed
+  sort_by: stars
   exclude:
     # archived:
     # > setting this to true, will exclude archived repositories

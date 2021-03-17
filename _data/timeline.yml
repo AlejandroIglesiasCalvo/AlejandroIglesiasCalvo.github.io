@@ -24,7 +24,7 @@
     - tag: Data Center
     - tag: Office 365
     - tag: Xwiki
-    - tag: HArdware of a Server
+    - tag: Hardware of a Server
     - tag: Sistem Administrator
   timeline-side: left
 
@@ -35,7 +35,7 @@
   tags:
     - tag: Windows 10
     - tag: Office 365
-    - tag: Ardware
+    - tag: Hardware
   timeline-side: right
 
 - title: Universidad de Oviedo
@@ -44,11 +44,6 @@
   subtitle: Grado en Ingenieria informatica del software
   timeline-side: left
 
-- title: IES Doctor Fleming
-  title-url: https://alojaweb.educastur.es/web/iesdoctorfleming
-  date: 2013 - 2015
-  subtitle: Bachillerato cientifico
-  timeline-side: left
 
 - title: Conservatorio Superior de Música "Eduardo Martínez Torner"
   title-url: https://consmupa.com/
