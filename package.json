@@ -1,12 +1,12 @@
 {
   "name": "Neumorphism",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "scripts": {
     "dev": "gulp",
     "prod": "gulp build"
   },
-  "author": "Long Do",
+  "author": "Alejandro IC",
   "license": "MIT",
   "dependencies": {
     "browser-sync": "^2.26.12",
@@ -19,6 +19,8 @@
     "gulp-uglify": "^3.0.2",
     "js-yaml": "^3.14.0",
     "lodash": "^4.17.20",
-    "node-sass": "^5.0.0"
+    "node-sass": "^5.0.0",
+    "axios": "^0.21.1",
+    "socket.io": "^2.4.0"
   }
 }
