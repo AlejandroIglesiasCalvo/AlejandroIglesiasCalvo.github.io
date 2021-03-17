@@ -9,28 +9,46 @@
   weight: 5
 
 - name: Bash
-  weight: 3
+  weight: 5
 
 - name: Scrum
-  weight: 3
+  weight: 5
 
 - name: Travis CI
-  weight: 1
+  weight: 2
+
+- name: CodeCov
+  weight: 2
 
 - name: Jenkins
-  weight: 1
+  weight: 3
 
 - name: Chrome DevTools
   weight: 2
 
 - name: npm
-  weight: 2
+  weight: 5
 
 - name: gulp
-  weight: 4
-
-- name: VS Code
   weight: 3
 
+- name: VS Code
+  weight: 5
+
 - name: Postman
+  weight: 2
+
+- name: Eclipse
+  weight: 5
+
+- name: Android Studio
   weight: 4
+
+- name: R Commander
+  weight: 2
+
+- name: Intellij
+  weight: 4
+
+- name: GitHub Actions
+  weight: 5

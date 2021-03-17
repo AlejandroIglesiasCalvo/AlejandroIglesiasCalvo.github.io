@@ -4,7 +4,7 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: Alejandro Iglesias Calvo
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website powered by Jekyll
+description: Curriculum online
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: Sobre mi
 # about_me_description: This will be displayed under the title.
-about_me_description: LLenarlo luego
+about_me_description: Soy estudiante de ultimo año de Ingenieria Informatica del software. En la universidad de Oviedo.
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
@@ -52,7 +52,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: 
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -68,7 +68,7 @@ projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: True
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 
@@ -80,7 +80,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: llenar
+contact_description: Pueden ponerse en contacto conmigo a través de la direccion de correo alejandroiglesiascalvo@hotmail.com, o mediante el telefono 717719965 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
@@ -101,6 +101,8 @@ projects:
     forks: true
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
+      - AlejandroIglesiasCalvo
+
     # - repo1-to-be-excluded
     # - repo2-to-be-excluded
 

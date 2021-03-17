@@ -16,46 +16,42 @@
 #     - tag: Ruby
 #     - tag: Rails
 #   timeline-side: right
-
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: ASAC
+  title-url: https://www.asac.as/
+  date: Febrero 2021 - Marzo 2021
+  subtitle: Practicas de empresa
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: Data Center
+    - tag: Office 365
+    - tag: Xwiki
+    - tag: HArdware of a Server
+    - tag: Sistem Administrator
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Universidad de Oviedo
+  title-url: https://www.uniovi.es/
+  date: Sep 2019 - Jul 2021
+  subtitle: Beca de colaboración de servicios informaticos
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Windows 10
+    - tag: Office 365
+    - tag: Ardware
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Universidad de Oviedo
+  title-url: https://www.uniovi.es/
+  date: 2015 - 2021
+  subtitle: Grado en Ingenieria informatica del software
   timeline-side: left
+
+- title: IES Doctor Fleming
+  title-url: https://alojaweb.educastur.es/web/iesdoctorfleming
+  date: 2013 - 2015
+  subtitle: Bachillerato cientifico
+  timeline-side: left
+
+- title: Conservatorio Superior de Música "Eduardo Martínez Torner"
+  title-url: https://consmupa.com/
+  date: 2011 - 2016
+  subtitle: Saxofon
+  timeline-side: rigth
