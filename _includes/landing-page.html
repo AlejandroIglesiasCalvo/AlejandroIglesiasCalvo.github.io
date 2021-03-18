@@ -1,14 +1,15 @@
 <div id="landing">
   <div class="landing-title">
-    <h1>Hi, I&#39;m
+    <h1>Hola, soy 
       <span class="highlight-title">{{site.username}}</span>,
     </h1>
     <h1>
       <span id="txt-rotate" data-period="2000"
-        data-rotate='["{{site.typing_text}}", "scroll down for more."]'
+        data-rotate='["{{site.typing_text}}", "desliza para mas información."]'
       >
       </span>
     </h1>
+    <!-- Modificar esto para añadir mas redes sociales-->
     <div class="landing-icons">
       {% if site.email != null %}
         <a class="social-link email" aria-label="My E-Mail" href="mailto:{{site.email}}">
