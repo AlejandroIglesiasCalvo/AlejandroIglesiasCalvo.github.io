@@ -13,14 +13,14 @@
 #     - tag: AngularJS
 #     - tag: Node
 - name: Mar de Dudas
-  descr: "Un pequeño juego creado para una competición universitaria. Bajo el pretexto de la competicion, elaboramos una demo con puzles. Un juego 2D de estetica 8 Bits"
+  descr: "Un pequeño juego creado para una competición universitaria. Bajo el pretexto de la competicion, elaboramos una demo con puzles. Un juego 2D de estética 8 Bits"
   demo: https://carlosmenendezmartinez.itch.io/mar-de-dudas
   tags:
     - tag: Unity
     - tag: C#
 
 - name: Resta Vid
-  descr: "Una apliacacion pensada para gestionar la ocupacion de un restaurante en tiempos de covid. Totalmente integrada con FireAuth, FireBase y Google Analitycs"
+  descr: "Una apliacación pensada para gestionar la ocupación de un restaurante en tiempos de covid. Totalmente integrada con FireAuth, FireBase y Google Analitycs"
   demo: https://github.com/AlejandroIglesiasCalvo/sdm_RestaVid
   tags:
     - tag: Android
