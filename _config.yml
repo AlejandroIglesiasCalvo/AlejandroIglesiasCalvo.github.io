@@ -24,7 +24,7 @@ github_username: AlejandroIglesiasCalvo
 instagram_username: mralexiglesias
 codepen_username: 
 dev_username: 
-linkedin_username: https://www.linkedin.com/in/alejandro-iglesias-calvo-255a29144/
+linkedin_username: alejandro-iglesias-calvo-255a29144
 twitter_username:
 
 # ABOUT ME SECTION
@@ -50,7 +50,7 @@ skills_title: Skills
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Education & Experience
+timeline_title: Educacion y expreriencia
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: 
@@ -71,7 +71,7 @@ projects_title: Proyectos en los que he participado
 # > setting this to false, will omit your public projects on github
 show_os_projects: True
 # os_projects_title: The will be displayed as the title of your open source projects
-os_projects_title: Open Source Projects
+os_projects_title: Proyectos de código abierto
 
 # CONTACT SECTION
 # show_contact_card:

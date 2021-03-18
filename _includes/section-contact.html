@@ -22,7 +22,17 @@
     </div>
   </a>
   {% endif %}
-
+  <!--Instagram-->
+  {% if site.instagram_username != null %}
+  <a class="social-link" aria-label="My GitHub" target="_blank" rel="noreferrer"
+    href="https://www.instagram.com/{{site.instagram_username}}/?hl=es">
+    <div class="social">
+      <svg class="social-svg" viewBox="0 0 48 48">
+        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#instagram" | prepend: site.baseurl }}"></use>
+      </svg>
+    </div>
+  </a>
+  {% endif %}
   {% if site.codepen_username != null %}
   <a class="social-link black" aria-label="My Codepen" target="_blank" rel="noreferrer"
     href="https://codepen.io/{{site.codepen_username}}">
