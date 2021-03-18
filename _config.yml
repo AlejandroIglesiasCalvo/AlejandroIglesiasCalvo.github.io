@@ -21,6 +21,7 @@ email: alejandroiglesiascalvo@hotmail.com
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: AlejandroIglesiasCalvo
+instagram_username: mralexiglesias
 codepen_username: 
 dev_username: 
 linkedin_username: https://www.linkedin.com/in/alejandro-iglesias-calvo-255a29144/
@@ -101,7 +102,7 @@ projects:
     forks: true
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
-
+      - AlejandroIglesiasCalvo
     # - repo1-to-be-excluded
     # - repo2-to-be-excluded
 

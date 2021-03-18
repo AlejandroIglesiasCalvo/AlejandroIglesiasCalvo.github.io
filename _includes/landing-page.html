@@ -40,6 +40,22 @@
           <span class="label">GitHub</span>
         </a>
       {% endif %}
+      <!-- Perfil de Instagram-->
+      {% if site.instagram_username != null %}
+      <a class="social-link" aria-label="My Instagram" target="_blank" rel="noreferrer"
+        href="https://www.instagram.com/{{site.instagram_username}}/?hl=es"
+      >
+        <svg viewBox="0 0 200 200" class="circle">
+          <circle cx="100" cy="100" r="80" />
+        </svg>
+        <div class="social">
+          <svg class="social-svg" viewBox="0 0 48 48">
+            <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#instagram" | prepend: site.baseurl }}"></use>
+          </svg>
+        </div>
+        <span class="label">Instagram</span>
+      </a>
+    {% endif %}
 
       {% if site.codepen_username != null %}
         <a class="social-link" aria-label="My Codepen" target="_blank" rel="noreferrer"
