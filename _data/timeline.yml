@@ -16,6 +16,19 @@
 #     - tag: Ruby
 #     - tag: Rails
 #   timeline-side: right
+- title: SOGETI
+  title-url: https://www.sogeti.es/
+  date: Junio 2021 - Actualidad
+  subtitle: Ingeniero Junior
+  tags:
+    - tag: C++
+    - tag: SSOO en tiempo real
+    - tag: VM
+    - tag: Scrum
+    - tag: Subversion
+    - tag: Linux
+  timeline-side: right
+
 - title: ASAC
   title-url: https://www.asac.as/
   date: Febrero 2021 - Marzo 2021
@@ -30,7 +43,7 @@
 
 - title: Universidad de Oviedo
   title-url: https://www.uniovi.es/
-  date: Sep 2019 - Jul 2021
+  date: Sep 2019 - Actualidad
   subtitle: Beca de colaboración de servicios informáticos
   tags:
     - tag: Windows 10

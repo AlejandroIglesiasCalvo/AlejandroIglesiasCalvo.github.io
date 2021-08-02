@@ -1,5 +1,10 @@
 ### VALUES YOU SHOULD CHANGE ###
 
+
+### Se compila con: bundle exec jekyll serve
+
+
+
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
 title: Alejandro Iglesias Calvo
@@ -14,7 +19,7 @@ baseurl: ""
 username: Alejandro Iglesias Calvo
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Estudiante de Ingeniería Informática
+typing_text: Ingeniero Junior
 # email: Your E-Mail address for the email button.
 email: alejandroiglesiascalvo@hotmail.com
 # For every social button you want to display, set your username or userid
@@ -35,7 +40,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: Quien soy
 # about_me_description: This will be displayed under the title.
-about_me_description: Soy estudiante de último año de Ingeniería Informática del software. En la universidad de Oviedo.
+about_me_description: Soy ingeniero junnior en Sogeti, trabajando para Hp. En el mantenimiento de sistemas oeperativos en tiempo real con C++.
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
