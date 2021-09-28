@@ -9,7 +9,7 @@
   "author": "Alejandro IC",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "browser-sync": "^2.26.12",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
