@@ -16,6 +16,16 @@
 #     - tag: Ruby
 #     - tag: Rails
 #   timeline-side: right
+- title: Babel
+  title-url: https://www.babelgroup.com/
+  date: Noviembre 2021 - Enero 2022
+  subtitle: Data Science Engineer
+  tags:
+    - tag: Power BI
+    - tag: Azure
+    - tag: SQL
+  timeline-side: left
+
 - title: SOGETI
   title-url: https://www.sogeti.es/
   date: Junio 2021 - Actualidad

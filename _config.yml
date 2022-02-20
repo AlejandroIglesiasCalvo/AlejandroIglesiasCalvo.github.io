@@ -40,7 +40,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: Quien soy
 # about_me_description: This will be displayed under the title.
-about_me_description: Soy ingeniero junnior en Sogeti, trabajando para Hp. En el mantenimiento de sistemas oeperativos en tiempo real con C++.
+about_me_description: Soy estudiante de ingeniería, con experiencia laboral en desarrollo de software.
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
@@ -58,7 +58,7 @@ show_timeline_card: true
 timeline_title: Educacion y expreriencia
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://drive.google.com/file/d/1x5r079biT0w93IfutVmcBoDnzlrzr46h/view?usp=sharing
+cv_download_link: https://drive.google.com/file/d/1DBTybtGWj1msIydFiOzAPagINbGR2Jec/view?usp=sharing
 
 # PROJECTS SECTION
 # show_projects_card:
