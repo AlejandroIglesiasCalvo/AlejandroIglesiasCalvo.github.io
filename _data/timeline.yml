@@ -16,6 +16,18 @@
 #     - tag: Ruby
 #     - tag: Rails
 #   timeline-side: right
+- title: Playa de Porcía
+  title-url: https://barplayadeporcia.es/
+  date: Abril 2022 - Mayo 2022
+  subtitle: Fullstack Developer
+  tags:
+    - tag: WordPress
+    - tag: Meta Bussines Suite
+    - tag: Google Analytics
+    - tag: Power BI
+    - tag: Cloudfare
+  timeline-side: rigth
+
 - title: Babel
   title-url: https://www.babelgroup.com/
   date: Noviembre 2021 - Enero 2022
