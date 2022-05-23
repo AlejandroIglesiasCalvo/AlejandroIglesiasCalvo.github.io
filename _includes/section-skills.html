@@ -1,9 +1,9 @@
 <h1 class="title">{{site.skills_title}}</h1>
 
 <div id="skills">
-  <input type="radio" id="all" name="filter" checked />
-  <label class="filter-button neumorphism-button" for="all">All</label>
-  <input type="radio" id="best" name="filter" />
+  <!-- <input type="radio" id="all" name="filter"  />
+  <label class="filter-button neumorphism-button" for="all">All</label> -->
+  <input type="radio" id="best" name="filter" checked />
   <label class="filter-button neumorphism-button" for="best">My best</label>
   <input type="radio" id="language" name="filter" />
   <label class="filter-button neumorphism-button" for="language"
@@ -17,9 +17,14 @@
   <label class="filter-button neumorphism-button" for="tool">Tools</label>
 
   {% for best in site.data.skills-myBest %}
-  <div skill-type="language" skill-weight="{{best.weight}}" data-aos="zoom-in">
+  <div
+    skill-type="lenguage-best"
+    skill-weight="{{best.weight}}"
+    data-aos="zoom-in"
+  >
     {{best.name}}
   </div>
+
   {% endfor %} {% for language in site.data.skills-languages %}
   <div
     skill-type="language"
