@@ -12,6 +12,15 @@
 #     - tag: Express
 #     - tag: AngularJS
 #     - tag: Node
+- name: Bar Playa de Porcía
+  descr: "Creación, despliegue y mantenimiento de la web del bar. Completamente integrada con Google Analitys para generar informes de ventas y predicciones. Accesible por QR de forma dinamica."
+  demo: https://barplayadeporcia.es/
+  tags:
+    - tag: Wordpress
+    - tag: Cloudfare
+    - tag: Google Analytics
+    - tag: Meta Bussines Suite
+
 - name: Mar de Dudas
   descr: "Un pequeño juego creado para una competición universitaria. Bajo el pretexto de la competicion, elaboramos una demo con puzles. Un juego 2D de estética 8 Bits"
   demo: https://carlosmenendezmartinez.itch.io/mar-de-dudas

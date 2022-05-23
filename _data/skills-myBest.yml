@@ -5,24 +5,20 @@
 # - name: Framework
 #   weight: 5
 
-
-- name: Node
+- name: Java-8
   weight: 5
 
-- name: React
-  weight: 2
+- name: C++
+  weight: 3
+
+- name: Python
+  weight: 3
+
+- name: Shell
+  weight: 3
 
 - name: Spring
   weight: 4
 
-- name: Shell
-  weight: 4
-
-- name: Yarm
-  weight: 2
-
-- name: Solid
-  weight: 2
-
-- name: Jekyll
-  weight: 2
+- name: GitHub
+  weight: 5
