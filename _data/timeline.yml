@@ -1,6 +1,17 @@
+- title: Clarcat
+  title-url: https://https://www.clarcat.com/
+  date: Junio 2022 - Actualidad
+  subtitle: DevOps Developer
+  tags:
+    - tag: Azure
+    - tag: C#
+    - tag: FullStack
+  timeline-side: right
+
+
 - title: Playa de Porcía
   title-url: https://barplayadeporcia.es/
-  date: Abril 2022 - Mayo 2022
+  date: Abril 2022 - Actualidad
   subtitle: Fullstack Developer
   tags:
     - tag: WordPress
