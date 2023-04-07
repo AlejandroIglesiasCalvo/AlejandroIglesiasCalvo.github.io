@@ -12,6 +12,13 @@
 #     - tag: Express
 #     - tag: AngularJS
 #     - tag: Node
+- name: ChatGPT Telegram Bot
+  descr: "Un bot de Telegram que utiliza ChatGPT-4 como asistente siempre disponible. Alojado en Linode tiene una disponibilidad del 99.9%. Tambien incluye Dall-E para generar imagenes a partir de texto."
+  demo: https://t.me/ChatGPT_AIC_bot
+  tags:
+    - tag: Python
+    - tag: Telegram
+
 - name: Bar Playa de Porcía
   descr: "Creación, despliegue y mantenimiento de la web del bar. Completamente integrada con Google Analitys para generar informes de ventas y predicciones. Accesible por QR de forma dinamica."
   demo: https://barplayadeporcia.es/
