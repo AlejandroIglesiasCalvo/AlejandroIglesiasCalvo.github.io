@@ -40,7 +40,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: Quien soy
 # about_me_description: This will be displayed under the title.
-about_me_description: Actualemente trabajo como freelance en el desarrollo de aplicaciones web y móviles. Mientras finalizo mis estudios. Me intereso por el desarrollo de software y la programación. Me gusta aprender nuevas tecnologías y aprender de las personas que me rodean.
+about_me_description: Actualemente trabajo como ingeniero informático en Clarcat. Mientras finalizo mis estudios. Me intereso por el desarrollo de software y la programación. Me gusta aprender nuevas tecnologías y aprender de las personas que me rodean.
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
