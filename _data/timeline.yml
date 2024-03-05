@@ -1,6 +1,18 @@
+- title: CyC
+  title-url: https://www.cyc.es/
+  date: Noviembre 2023 - Actualidad
+  subtitle: DevOps Developer
+  tags:
+    - tag: FullStack
+    - tag: C#
+    - tag: Nunit
+    - tag: EntityFramework
+    - tag: FullStack
+  timeline-side: left
+
 - title: Clarcat
   title-url: https://www.clarcat.com/
-  date: Junio 2022 - Actualidad
+  date: Junio 2022 - Octubre 2023
   subtitle: DevOps Developer
   tags:
     - tag: Azure
