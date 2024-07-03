@@ -12,17 +12,12 @@
 - name: React
   weight: 2
 
-- name: Spring
+- name: Spring Boot
   weight: 4
 
-- name: Shell
+- name: Zsh
   weight: 4
 
-- name: Yarm
+- name: PyTorch
   weight: 2
 
-- name: Solid
-  weight: 2
-
-- name: Jekyll
-  weight: 2
