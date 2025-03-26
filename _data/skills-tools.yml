@@ -1,10 +1,3 @@
-# > name: Name of your Dev Tool
-# > weight: Describes how good you know the tool - values from 1 up to 5
-#
-# Example of a Dev Tool
-# - name: Git
-#   weight: 5
-
 - name: Git
   weight: 5
 
@@ -15,6 +8,12 @@
   weight: 5
 
 - name: LLM
+  weight: 5
+
+- name: Docker
+  weight: 5
+
+- name: Docker Compose
   weight: 5
 
 - name: CodeCov
@@ -33,7 +32,7 @@
   weight: 5
 
 - name: Postman
-  weight: 2
+  weight: 4
 
 - name: Eclipse
   weight: 5
@@ -46,3 +45,15 @@
 
 - name: GitHub Actions
   weight: 5
+
+- name: Azure DevOps
+  weight: 5
+
+- name: Power BI
+  weight: 5
+
+- name: Google Analytics
+  weight: 4
+
+- name: Cloudflare
+  weight: 4

@@ -1,46 +1,35 @@
-# > name: Name of your programming language
-# > weight: Describes how good you know the language - values from 1 up to 5
-#
-# Example of a Language
-# - name: Language
-#   weight: 5
-
-- name: TypeScript
-  weight: 2
-
-- name: JavaScript
-  weight: 2
-
-- name: HTML5
-  weight: 2
-
-- name: CSS3
-  weight: 2
-
-- name: SASS
-  weight: 2
-
-- name: Java
-  weight: 4
-
-- name: C++
-  weight: 5
-
 - name: C#
   weight: 5
 
-- name: Kotlin
-  weight: 2
-
 - name: C++
   weight: 4
-
-- name: Ruby
-  weight: 1
-
-- name: c
-  weight: 2
 
 - name: Python
   weight: 4
 
+- name: Java
+  weight: 4
+
+- name: TypeScript
+  weight: 3
+
+- name: JavaScript
+  weight: 3
+
+- name: HTML5
+  weight: 3
+
+- name: CSS3
+  weight: 3
+
+- name: SASS
+  weight: 2
+
+- name: Kotlin
+  weight: 2
+
+- name: Ruby
+  weight: 1
+
+- name: C
+  weight: 2

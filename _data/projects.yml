@@ -1,24 +1,3 @@
-# > name: Name of your project
-# > descr: Description of your project
-# > demo: Link to your project
-# > tags: List of technologies you used in your projects
-#
-# Example of a project
-# - name: project X
-#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-#   demo: https://example.com/
-#   tags:
-#     - tag: MongoDB
-#     - tag: Express
-#     - tag: AngularJS
-#     - tag: Node
-- name: ChatGPT Telegram Bot
-  descr: "Un bot de Telegram que utiliza ChatGPT-4 como asistente siempre disponible. Alojado en Linode tiene una disponibilidad del 99.9%. Tambien incluye Dall-E para generar imagenes a partir de texto."
-  demo: https://t.me/ChatGPT_AIC_bot
-  tags:
-    - tag: Python
-    - tag: Telegram
-
 - name: Bar Playa de Porcía
   descr: "Creación, despliegue y mantenimiento de la web del bar. Completamente integrada con Google Analitys para generar informes de ventas y predicciones. Accesible por QR de forma dinamica."
   demo: https://barplayadeporcia.es/
@@ -43,7 +22,11 @@
     - tag: Java
     - tag: Google Services
 
-
-
-
-
+- name: Qdamos
+  descr: "Creación, despliegue y mantenimiento de la web del bar. Completamente integrada con Google Analitys para generar informes de ventas y predicciones."
+  demo: https://qdamos.net/
+  tags:
+    - tag: Markdown
+    - tag: TailwindCSS
+    - tag: Docker
+    - tag: LLM
