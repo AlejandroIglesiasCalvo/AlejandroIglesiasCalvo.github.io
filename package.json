@@ -20,7 +20,7 @@
     "gulp-uglify": "^3.0.2",
     "js-yaml": "^3.14.0",
     "lodash": "^4.17.21",
-    "node-sass": "^5.0.0",
+    "node-sass": "^7.0.0",
     "socket.io": "^2.4.0"
   }
 }
