@@ -1,92 +1,114 @@
 - title: Servantrip
   title-url: https://servantrip.com/
   date: Julio 2024 - Actualidad
-  subtitle: DevOps Developer
+  subtitle: Full Stack Developer
   tags:
-    - tag: .Net
-    - tag: Solr
+    - tag: .NET
     - tag: Microservicios
-    - tag: Docker
-    - tag: Agile
+    - tag: Solr
+    - tag: APIs
+    - tag: Alta disponibilidad
   timeline-side: right
+  description: |
+    • Desarrollo de aplicaciones B2B en .Net con un volumen aproximado de 5 millones de transacciones diarias.
+    • Liderazgo en integraciones críticas de APIs externas y creación de microservicios.
+    • Optimización del rendimiento del crawler web del producto propio.
+    • Gestión avanzada de bases de datos SQL y Solr en entorno de alta disponibilidad.
+    • Participación en decisiones tecnológicas estratégicas y cumplimiento de estándares de calidad.
 
 - title: CyC
   title-url: https://www.cyc.es/
   date: Noviembre 2023 - Julio 2024
-  subtitle: DevOps Developer
+  subtitle: Full Stack Developer
   tags:
-    - tag: FullStack
     - tag: C#
-    - tag: Nunit
-    - tag: EntityFramework
+    - tag: SQL
+    - tag: Sistema de Salud
+    - tag: Calidad
   timeline-side: left
+  description: |
+    • Desarrollo back-end en C# y gestión de bases de datos SQL para el Sistema de Salud de Navarra.
+    • Trabajo colaborativo en estructuras estatales y coordinación con equipos multidisciplinares.
+    • Aseguramiento de la calidad mediante pruebas de integración exhaustivas.
 
 - title: Clarcat
   title-url: https://www.clarcat.com/
   date: Junio 2022 - Octubre 2023
-  subtitle: DevOps Developer
+  subtitle: Full Stack Developer
   tags:
+    - tag: .NET
     - tag: Azure
-    - tag: C#
-    - tag: FullStack
+    - tag: DevOps
+    - tag: Cloud
   timeline-side: right
+  description: |
+    • Implementación integral en .Net de una plataforma digital para la transformación y digitalización de parques industriales del sector metalúrgico.
+    • Uso exhaustivo de Azure DevOps (CI/CD, Boards, Pipelines) para gestión de proyectos ágiles.
+    • Gestión y desarrollo de soluciones front-end, back-end y bases de datos en entornos cloud.
+    • Coordinación interdepartamental y comunicación continua con stakeholders técnicos y de negocio.
 
-- title: Playa de Porcía
+- title: Bar Playa de Porcía
   title-url: https://barplayadeporcia.es/
   date: Abril 2022 - Actualidad
-  subtitle: Fullstack Developer
+  subtitle: Full Stack Developer
   tags:
     - tag: WordPress
-    - tag: Meta Business Suite
+    - tag: SEO
     - tag: Google Analytics
     - tag: Power BI
-    - tag: Cloudflare
   timeline-side: left
+  description: |
+    • Desarrollo del sitio web con WordPress, alcanzando alrededor de 5,000 visitas mensuales tras mejoras en SEO y analítica web.
+    • Implementación de soluciones de analítica avanzada usando Google Analytics y Power BI para predicción de ventas y control de aforo.
+    • Optimización del rendimiento móvil y accesibilidad web.
 
 - title: Babel
   title-url: https://www.babelgroup.com/
-  date: Noviembre 2021 - Enero 2022
-  subtitle: Data Science Engineer
+  date: Diciembre 2021 - Enero 2022
+  subtitle: Ingeniero de Datos, Power BI
   tags:
     - tag: Power BI
     - tag: Azure
-    - tag: SQL
-  timeline-side: right
+    - tag: PowerQuery
+  description: |
+    • Generación y automatización de informes con Power BI integrados en Azure.
+    • Tratamiento avanzado de datos mediante PowerQuery, tanto en local como en cloud.
 
-- title: SOGETI
-  title-url: https://www.sogeti.es/
-  date: Junio 2021 - Noviembre 2021
-  subtitle: Ingeniero Junior
+- title: Sogeti (para HP)
+  date: Febrero 2021 - Diciembre 2021
+  subtitle: Programador Junior en C++
   tags:
     - tag: C++
-    - tag: SSOO en tiempo real
-    - tag: VM
-    - tag: Scrum
-    - tag: Subversion
-    - tag: Linux
-  timeline-side: left
+    - tag: Impresoras industriales
+    - tag: TCL
+  description: |
+    • Desarrollo y mantenimiento de software en C++ para impresoras industriales con soporte sólido y textil.
+    • Creación de librerías especializadas estáticas y dinámicas.
+    • Colaboración en equipos internacionales bajo metodologías ágiles (pair programming).
+    • Uso habitual de TCL, máquinas de estados y control de versiones con Subversion.
 
-- title: ASAC
-  title-url: https://www.asac.as/
+- title: ASAC Asturias
   date: Febrero 2021 - Marzo 2021
-  subtitle: Prácticas de empresa
+  subtitle: Administrador de Sistemas (Prácticas)
   tags:
-    - tag: Data Center
-    - tag: Office 365
-    - tag: Xwiki
+    - tag: Datacenter
     - tag: Hardware
-    - tag: System Administrator
-  timeline-side: right
+  description: |
+    • Prácticas en un Datacenter Tier 3. Trabajos con hardware específico del servidor.
+    • Documentación de procedimientos de actuación y trato con clientes.
 
 - title: Universidad de Oviedo
-  title-url: https://www.uniovi.es/
-  date: Septiembre 2019 - Junio 2021
-  subtitle: Beca de colaboración de servicios informáticos
+  date: Septiembre 2019 - Julio 2021
+  subtitle: Becario de Colaboración de Servicios Informáticos
   tags:
-    - tag: Windows 10
-    - tag: Office 365
-    - tag: Hardware
-  timeline-side: left
+    - tag: Soporte Técnico
+    - tag: Mantenimiento
+  description: |
+    • Mantenimiento de los sistemas locales de la universidad.
+    • Clonación, instalación y actualización del hardware en equipos de la universidad.
+    - tag: Azure
+    - tag: SQL
+  timeline-side: right
 
 - title: Universidad de Oviedo
   title-url: https://www.uniovi.es/

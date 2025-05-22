@@ -1,34 +1,59 @@
-- name: Git
-  weight: 5
-
-- name: Bash
-  weight: 5
-
-- name: Scrum
-  weight: 5
-
-- name: LLM
+- name: Azure DevOps
   weight: 5
 
 - name: Docker
   weight: 5
 
-- name: Docker Compose
-  weight: 5
+- name: Kubernetes
+  weight: 4
 
-- name: CodeCov
-  weight: 2
+- name: Terraform
+  weight: 4
 
-- name: Jenkins
-  weight: 1
+- name: GitHub Actions
+  weight: 4
 
-- name: npm
-  weight: 5
-
-- name: gulp
+- name: AWS
   weight: 3
 
-- name: VS Code
+- name: Git
+  weight: 5
+
+- name: Subversion
+  weight: 3
+
+- name: SQL Server
+  weight: 5
+
+- name: Solr
+  weight: 4
+
+- name: PostgreSQL
+  weight: 4
+
+- name: MongoDB
+  weight: 3
+
+- name: Vector DBs
+  weight: 3
+
+- name: Linux (Debian/Arch)
+  weight: 4
+
+- name: Windows Server
+  weight: 4
+
+- name: Microservicios
+  weight: 5
+
+- name: IaC
+  weight: 4
+
+- name: Web Crawlers
+  weight: 4
+
+- name: CI/CD Pipelines
+  weight: 5
   weight: 5
 
 - name: Postman

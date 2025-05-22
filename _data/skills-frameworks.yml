@@ -1,14 +1,29 @@
-- name: Node
+- name: .NET 8 & ASP.NET Core
   weight: 5
 
-- name: Spring Boot
-  weight: 4
-
-- name: Zsh
-  weight: 4
+- name: Entity Framework
+  weight: 5
 
 - name: React
-  weight: 2
+  weight: 4
 
-- name: PyTorch
-  weight: 2
+- name: SvelteKit
+  weight: 4
+
+- name: Express
+  weight: 3
+
+- name: REST API
+  weight: 5
+
+- name: Power BI
+  weight: 4
+
+- name: PowerQuery
+  weight: 4
+
+- name: Java Swing
+  weight: 3
+
+- name: ASP.NET (WinForms)
+  weight: 3
