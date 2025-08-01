@@ -1,20 +1,20 @@
-<h1 class="title">{{site.skills_title}}</h1>
+<h1 class="title">{{ t.skills.title }}</h1>
 
 <div id="skills">
   <input type="radio" id="all" name="filter" checked />
-  <label class="filter-button neumorphism-button" for="all">All</label>
+  <label class="filter-button neumorphism-button" for="all">{% if current_lang == 'en' %}All{% else %}Todo{% endif %}</label>
   <input type="radio" id="best" name="filter" />
-  <label class="filter-button neumorphism-button" for="best">My best</label>
+  <label class="filter-button neumorphism-button" for="best">{% if current_lang == 'en' %}My best{% else %}Lo mejor{% endif %}</label>
   <input type="radio" id="language" name="filter" />
   <label class="filter-button neumorphism-button" for="language"
-    >Languages</label
+    >{% if current_lang == 'en' %}Languages{% else %}Lenguajes{% endif %}</label
   >
   <input type="radio" id="framework" name="filter" />
   <label class="filter-button neumorphism-button" for="framework"
     >Frameworks</label
   >
   <input type="radio" id="tool" name="filter" />
-  <label class="filter-button neumorphism-button" for="tool">Tools</label>
+  <label class="filter-button neumorphism-button" for="tool">{% if current_lang == 'en' %}Tools{% else %}Herramientas{% endif %}</label>
 
   {% for best in site.data.skills-myBest %}
   <div

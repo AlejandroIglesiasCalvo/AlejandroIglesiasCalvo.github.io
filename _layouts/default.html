@@ -1,13 +1,17 @@
+{% assign current_lang = page.lang | default: site.default_lang %}
+{% if page.url contains '?lang=en' or page.lang == 'en' %}
+  {% assign current_lang = 'en' %}
+{% endif %}
 <!DOCTYPE html>
-<html lang="es">
+<html lang="{{ current_lang }}">
 
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{{ site.title }}</title>
-  <meta name="description" content="{{ site.description }}">
+  <title>{{ t.site.title }}</title>
+  <meta name="description" content="{{ t.site.description }}">
 
   <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/favicon/apple-touch-icon.png" | prepend: site.baseurl }}">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/favicon/favicon-32x32.png" | prepend: site.baseurl }}">
@@ -19,9 +23,11 @@
 
   <script src="{{ "/assets/js/vendors.min.js" | prepend: site.baseurl }}"></script>
   <script src="{{ "/assets/js/app.min.js" | prepend: site.baseurl }}"></script>
+  <script src="{{ "/assets/js/i18n.js" | prepend: site.baseurl }}"></script>
 </head>
 
 <body>
+  {% include language-detector.html %}
   <div id="preloader">
     <div class="load">
       <hr />

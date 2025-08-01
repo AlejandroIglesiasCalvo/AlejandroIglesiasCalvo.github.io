@@ -1,0 +1,31 @@
+{% comment %}
+Language detection and assignment logic
+This include determines the current language based on URL parameters or browser detection
+{% endcomment %}
+
+{% assign url_lang = page.url | split: '?lang=' | last | split: '&' | first %}
+{% assign current_lang = site.default_lang %}
+
+{% comment %} Check if language is specified in URL {% endcomment %}
+{% if url_lang == 'en' or url_lang == 'es' %}
+  {% assign current_lang = url_lang %}
+{% endif %}
+
+{% comment %} Set language-specific data {% endcomment %}
+{% if current_lang == 'en' %}
+  {% assign t = site.data.i18n.en %}
+  {% assign timeline_data = site.data.timeline-en %}
+  {% assign projects_data = site.data.projects-en %}
+  {% assign cv_link = site.cv_download_link.en %}
+{% else %}
+  {% assign t = site.data.i18n.es %}
+  {% assign timeline_data = site.data.timeline %}
+  {% assign projects_data = site.data.projects %}
+  {% assign cv_link = site.cv_download_link.es %}
+{% endif %}
+
+<script>
+  // Set current language for JavaScript
+  window.currentLang = '{{ current_lang }}';
+  document.documentElement.lang = '{{ current_lang }}';
+</script>

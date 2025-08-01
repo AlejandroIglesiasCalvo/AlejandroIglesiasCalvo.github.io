@@ -1,0 +1,55 @@
+es:
+  site:
+    title: "Alejandro Iglesias Calvo"
+    description: "Trayectoria profesional"
+    typing_text: "Ingeniero Informático"
+  nav:
+    about: "Quien soy"
+    skills: "Skills"
+    timeline: "Educación y experiencia"
+    projects: "Proyectos"
+    contact: "Contacto"
+  about:
+    title: "Quien soy"
+    description: "Me intereso por el desarrollo de software y la programación, estoy constantemente actualizando mi conocimiento. Me gusta aprender nuevas tecnologías y aprender de las personas que me rodean."
+  skills:
+    title: "Skills"
+  timeline:
+    title: "Educación y experiencia"
+    download_cv: "Descargar CV"
+  projects:
+    title: "Proyectos"
+    view_project: "Ver proyecto"
+    view_code: "Ver código"
+  contact:
+    title: "Contacto"
+    get_in_touch: "Ponte en contacto"
+    send_email: "Enviar email"
+
+en:
+  site:
+    title: "Alejandro Iglesias Calvo"
+    description: "Professional career"
+    typing_text: "Computer Engineer"
+  nav:
+    about: "About me"
+    skills: "Skills"
+    timeline: "Education & experience"
+    projects: "Projects"
+    contact: "Contact"
+  about:
+    title: "About me"
+    description: "I'm interested in software development and programming, constantly updating my knowledge. I enjoy learning new technologies and learning from the people around me."
+  skills:
+    title: "Skills"
+  timeline:
+    title: "Education & experience"
+    download_cv: "Download CV"
+  projects:
+    title: "Projects"
+    view_project: "View project"
+    view_code: "View code"
+  contact:
+    title: "Contact"
+    get_in_touch: "Get in touch"
+    send_email: "Send email"

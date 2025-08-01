@@ -1,14 +1,14 @@
-<h1 class="title">{{site.timeline_title}}</h1>
+<h1 class="title">{{ t.timeline.title }}</h1>
 <p class="subtitle">
-  Para más información, echa un vistazo a mi
-  <a class="highlight-link" href="{{site.cv_download_link}}" target="_blank" rel="noreferrer">
-    curriculum vitae
+  {% if current_lang == 'en' %}For more information, check out my{% else %}Para más información, echa un vistazo a mi{% endif %}
+  <a class="highlight-link" href="{{ cv_link }}" target="_blank" rel="noreferrer" data-cv-link>
+    {% if current_lang == 'en' %}curriculum vitae{% else %}curriculum vitae{% endif %}
   </a>.
 </p>
 
 <div class="timeline-wrapper">
   <ul class="timeline">
-    {% for event in site.data.timeline %}
+    {% for event in timeline_data %}
       {% if event.timeline-side == 'left' %}
         <li>
           <div class="direction-l">

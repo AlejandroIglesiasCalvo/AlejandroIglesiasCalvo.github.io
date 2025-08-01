@@ -1,0 +1,32 @@
+- name: Bar Playa de Porcía
+  descr: "Creation, deployment and maintenance of the bar's website. Fully integrated with Google Analytics to generate sales reports and predictions. Dynamically accessible via QR code."
+  demo: https://barplayadeporcia.es/
+  tags:
+    - tag: Wordpress
+    - tag: Cloudflare
+    - tag: Google Analytics
+    - tag: Meta Business Suite
+
+- name: Mar de Dudas
+  descr: "A small game created for a university competition. Under the pretext of the competition, we developed a demo with puzzles. A 2D game with 8-bit aesthetics."
+  demo: https://carlosmenendezmartinez.itch.io/mar-de-dudas
+  tags:
+    - tag: Unity
+    - tag: C#
+
+- name: Resta Vid
+  descr: "An application designed to manage restaurant occupancy during COVID times. Fully integrated with FireAuth, Firebase and Google Analytics."
+  demo: https://github.com/AlejandroIglesiasCalvo/sdm_RestaVid
+  tags:
+    - tag: Android
+    - tag: Java
+    - tag: Google Services
+
+- name: Qdamos
+  descr: "Creation, deployment and maintenance of the website. Fully integrated with Google Analytics to generate sales reports and predictions."
+  demo: https://qdamos.net/
+  tags:
+    - tag: Markdown
+    - tag: TailwindCSS
+    - tag: Docker
+    - tag: LLM

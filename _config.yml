@@ -58,7 +58,14 @@ show_timeline_card: true
 timeline_title: Educacion y expreriencia
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: /assets/resources/Alejandro-Iglesias-Calvo-cv.pdf
+# Internationalization
+languages: ["es", "en"]
+default_lang: "es"
+
+# CV download links for different languages
+cv_download_link:
+  es: /assets/resources/Alejandro-Iglesias-Calvo-cv.pdf
+  en: /assets/resources/Alejandro-Iglesias-Calvo-cv-eng.pdf
 
 # PROJECTS SECTION
 # show_projects_card:

@@ -1,0 +1,94 @@
+- title: Servantrip
+  title-url: https://servantrip.com/
+  date: July 2024 - August 2025
+  subtitle: Full Stack Developer
+  tags:
+    - tag: .NET
+    - tag: Microservices
+    - tag: Solr
+    - tag: APIs
+    - tag: High availability
+  timeline-side: right
+  description: |
+    • Development of B2B applications in .Net with approximately 5 million daily transactions.
+    • Leadership in critical external API integrations and microservices creation.
+    • Performance optimization of the proprietary web crawler product.
+    • Advanced management of SQL and Solr databases in high availability environments.
+    • Participation in strategic technology decisions and quality standards compliance.
+
+- title: CyC
+  title-url: https://www.cyc.es/
+  date: November 2023 - July 2024
+  subtitle: Full Stack Developer
+  tags:
+    - tag: C#
+    - tag: SQL
+    - tag: Health System
+    - tag: Quality
+  timeline-side: left
+  description: |
+    • Back-end development in C# and SQL database management for the Navarra Health System.
+    • Collaborative work in state structures and coordination with multidisciplinary teams.
+    • Quality assurance through comprehensive integration testing.
+
+- title: Clarcat
+  title-url: https://www.clarcat.com/
+  date: June 2022 - October 2023
+  subtitle: Full Stack Developer
+  tags:
+    - tag: .NET
+    - tag: Azure
+    - tag: DevOps
+    - tag: Cloud
+  timeline-side: right
+  description: |
+    • Comprehensive .Net implementation of a digital platform for transformation and digitalization of industrial parks in the metallurgical sector.
+    • Extensive use of Azure DevOps (CI/CD, Boards, Pipelines) for agile project management.
+    • Management and development of front-end, back-end and database solutions in cloud environments.
+    • Interdepartmental coordination and continuous communication with technical and business stakeholders.
+
+- title: Bar Playa de Porcía
+  title-url: 
+  date: June 2021 - May 2022
+  subtitle: Waiter
+  tags:
+    - tag: Customer service
+    - tag: Teamwork
+    - tag: Hospitality
+  timeline-side: left
+  description: |
+    • Customer service in a high-volume beach restaurant environment.
+    • Teamwork and coordination in fast-paced service situations.
+    • Development of communication and problem-solving skills.
+
+- title: Universidad de Oviedo
+  title-url: https://www.uniovi.es/
+  date: September 2018 - June 2022
+  subtitle: Computer Engineering Degree
+  tags:
+    - tag: Software Engineering
+    - tag: Algorithms
+    - tag: Databases
+    - tag: Web Development
+  timeline-side: right
+  description: |
+    • Computer Engineering degree with specialization in Software Engineering.
+    • Comprehensive training in programming, algorithms, data structures, and software development.
+    • Projects in web development, databases, and software architecture.
+    • Final project: Development of a web application for restaurant management.
+
+- title: IES Pérez de Ayala
+  title-url: https://www.iesperezdeayala.com/
+  date: September 2016 - June 2018
+  subtitle: Higher Technician in Web Application Development
+  tags:
+    - tag: Web Development
+    - tag: JavaScript
+    - tag: PHP
+    - tag: Databases
+  timeline-side: left
+  description: |
+    • Higher vocational training in web application development.
+    • Learning of web technologies: HTML, CSS, JavaScript, PHP, MySQL.
+    • Development of complete web projects from design to implementation.
+    • Final project: E-commerce web application with payment system integration.
